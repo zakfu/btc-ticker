@@ -2,7 +2,7 @@ package com.zakfu.btcticker;
 
 import java.util.Date;
 
-public class Quote {
+public class BitstampQuote {
     private String last;
     private String high;
     private String timestamp;
